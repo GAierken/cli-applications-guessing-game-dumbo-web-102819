@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 def run_guessing_game
@@ -13,3 +14,7 @@ def run_guessing_game
 
   end
 end
+=======
+def run_guessing_game
+end 
+>>>>>>> 890c23f3177390d98a884f6cd7f6130b7c69ac0c
